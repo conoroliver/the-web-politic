@@ -7,12 +7,24 @@ body {
 
 
 .title{ 
-	background-image: url("https://just38.justhost.com:2083/cpsess5774539785/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/background.jpg");
+	background-image: url("https://just38.justhost.com:2083/cpsess297345038/viewer/home4/olivers1/public_html/webpolitic/background.jpg?post_login=74769275155582");
 	background-repeat: no-repeat;
 	background-size: cover;
     padding-top: 3rem;
-    padding-bottom: 5rem; 
+    padding-bottom: 3rem; 
+    /*margin: .5rem;*/
+    color: #ffffff;
 }
+
+
+
+.title-small{
+	background-image: url("https://just38.justhost.com:2083/cpsess297345038/viewer/home4/olivers1/public_html/webpolitic/background.jpg?post_login=74769275155582");
+	background-repeat: no-repeat;
+	background-size: cover;
+    padding-top: 1rem;
+    padding-bottom: 1rem; 
+}	
 
 .shanti{
 	font-family:"Shanti";
@@ -20,16 +32,28 @@ body {
 
 .title-txt{
 	color: #ffffff;
-	text-shadow: 0 2px #000000
+	text-shadow: 0 2px #000000;
+}
 
+.title-bar{
+	color:#000000;
+}
+
+.top-bar{
+	padding-top: 1rem;
+}
+.top-bar-element{
+	background-color:#000000;
+}
+
+.menu{
+	background-color:#000;
+}
 
 p{ /*just a test class for now testing fonts/anything*/
 	font-family: "Aclonica";
 	font-weight: bold; 
-	background-image: url("images/title-background.png");
-	background-repeat: no-repeat;
-    background-position: center top;
+	text-align: center;
 }
-
 
    
