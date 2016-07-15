@@ -50,6 +50,10 @@ body {
 	background-color:#000;
 }
 
+.orbit{
+	overflow: hidden;
+}
+
 p{ /*just a test class for now testing fonts/anything*/
 	font-family: "Aclonica";
 	font-weight: bold; 
