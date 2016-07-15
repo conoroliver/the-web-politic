@@ -50,9 +50,31 @@ body {
 	background-color:#000;
 }
 
-.orbit{
-	overflow: hidden;
+.orbit-object-debate{
+	padding:15rem;
+	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/debate-edit.png");	
 }
+
+.orbit-object-vote{
+	padding:15rem;
+	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/vote-edit.png");	
+}
+
+.orbit-object-community{
+	padding:15rem;
+	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/c-edit.png");	
+}
+
+.orbit-object-edit{
+	padding:15rem;
+	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/edit-edit.png");	
+}
+
+.orbit{
+	height:15rem;
+}
+
+
 
 p{ /*just a test class for now testing fonts/anything*/
 	font-family: "Aclonica";
