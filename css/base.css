@@ -7,7 +7,7 @@ body {
 
 
 .title{ 
-	background-image: url("https://just38.justhost.com:2083/cpsess297345038/viewer/home4/olivers1/public_html/webpolitic/background.jpg?post_login=74769275155582");
+	background-image: url("https://just38.justhost.com:2083/cpsess739531894/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/background.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
     padding-top: 3rem;
@@ -19,7 +19,7 @@ body {
 
 
 .title-small{
-	background-image: url("https://just38.justhost.com:2083/cpsess297345038/viewer/home4/olivers1/public_html/webpolitic/background.jpg?post_login=74769275155582");
+	background-image: url("https://just38.justhost.com:2083/cpsess739531894/viewer/home4/olivers1/public_html/webpolitic/background.jpg?post_login=74769275155582");
 	background-repeat: no-repeat;
 	background-size: cover;
     padding-top: 1rem;
@@ -52,26 +52,36 @@ body {
 
 .orbit-object-debate{
 	padding:15rem;
-	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/debate-edit.png");	
+	background-image: url("https://just38.justhost.com:2083/cpsess739531894/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/debate-edit.png");	
 }
 
 .orbit-object-vote{
 	padding:15rem;
-	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/vote-edit.png");	
+	background-image: url("https://just38.justhost.com:2083/cpsess739531894/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/vote-edit.png");	
 }
 
 .orbit-object-community{
 	padding:15rem;
-	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/c-edit.png");	
+	background-image: url("https://just38.justhost.com:2083/cpsess739531894/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/c-edit.png");	
 }
 
 .orbit-object-edit{
 	padding:15rem;
-	background-image: url("https://just38.justhost.com:2083/cpsess245937009/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/edit-edit.png");	
+	background-image: url("https://just38.justhost.com:2083/cpsess739531894/viewer/home4%2folivers1%2fpublic_html%2fwebpolitic/edit-edit.png");	
 }
 
 .orbit{
 	height:15rem;
+}
+
+.orbit-bullets{
+  position: absolute;
+  bottom:-120%;
+  right: 50%;
+  li {
+    width: 2rem;
+    height: 2rem;
+  }
 }
 
 
